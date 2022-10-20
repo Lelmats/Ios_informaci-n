@@ -15,6 +15,7 @@
 		3D27A3E129019ADB00E11DB3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D27A3DF29019ADB00E11DB3 /* LaunchScreen.storyboard */; };
 		3D27A3EC29019ADB00E11DB3 /* informacionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D27A3EB29019ADB00E11DB3 /* informacionTests.swift */; };
 		3D27A3F729019ADB00E11DB3 /* informacionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D27A3F629019ADB00E11DB3 /* informacionUITests.swift */; };
+		3D27A40529019CD800E11DB3 /* ModificarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D27A40429019CD800E11DB3 /* ModificarController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3D27A3F229019ADB00E11DB3 /* informacionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = informacionUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D27A3F629019ADB00E11DB3 /* informacionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = informacionUITests.swift; sourceTree = "<group>"; };
 		3D27A3F829019ADB00E11DB3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D27A40429019CD800E11DB3 /* ModificarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModificarController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				3D27A3DD29019ADB00E11DB3 /* Assets.xcassets */,
 				3D27A3DF29019ADB00E11DB3 /* LaunchScreen.storyboard */,
 				3D27A3E229019ADB00E11DB3 /* Info.plist */,
+				3D27A40429019CD800E11DB3 /* ModificarController.swift */,
 			);
 			path = informacion;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				3D27A3D929019ADA00E11DB3 /* ViewController.swift in Sources */,
 				3D27A3D529019ADA00E11DB3 /* AppDelegate.swift in Sources */,
+				3D27A40529019CD800E11DB3 /* ModificarController.swift in Sources */,
 				3D27A3D729019ADA00E11DB3 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
